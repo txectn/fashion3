@@ -644,6 +644,7 @@ STRUCTURE & RESPONSIBILITIES
   border-radius: 0.5rem;
   font-size: 1.4rem;
   margin-top: 3rem;
+  transition: opacity 0.3s ease;
 }
 
 @media(pointer: fine) {
