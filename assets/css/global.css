@@ -1504,6 +1504,10 @@ body {
     width: 2rem;
     height: 2rem;
   }
+  .cart-wishlist-btn-item-count {
+    top: -7px;
+    right: -5px;
+  }
 }
 
 /* header media breakpoints end */
