@@ -414,6 +414,11 @@ STRUCTURE & RESPONSIBILITIES
     max-height: 30rem;
     height: 25rem;
   }
+
+  .suggestion-col1 .suggestion-content {
+    padding: 3rem;
+    padding-right: 2rem;
+  }
 }
 
 @media(max-width: 500px) {
@@ -567,6 +572,7 @@ STRUCTURE & RESPONSIBILITIES
   justify-content: space-between;
   height: 489px;
   background-color: #F5FAF7;
+  background-color: #F5F7FA;
   padding: 3rem;
   padding-left: 5rem;
   position: relative;
